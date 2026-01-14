@@ -4,7 +4,7 @@
 
 AMQP transport implementation for the Model Context Protocol (MCP), enabling MCP servers and clients to communicate over AMQP message brokers like RabbitMQ.
 
-<img width="984" height="450" alt="image" src="https://github.com/user-attachments/assets/2de12861-ba2a-40ae-8e1a-c550e38306ba" />
+<img width="1024" height="448" alt="image" src="https://github.com/user-attachments/assets/8932c27f-d09f-4e48-bdfd-0c42b04c59c2" />
 
 
 ## Benefits
